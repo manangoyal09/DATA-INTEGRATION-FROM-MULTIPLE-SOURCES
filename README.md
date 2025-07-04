@@ -85,3 +85,6 @@ Revenue, quantity, and orders are all healthy, confirming the popularity of this
 From operations and marketing to pricing and customer behavior, this dashboard offers everything a business manager or analyst needs to make data-driven decisions.
 
 #OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/2e7bed2d-b581-4ac2-88ea-e1d736450b07)
+
